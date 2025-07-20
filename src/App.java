@@ -5,6 +5,7 @@ public class App {
         Scanner sc = new Scanner(System.in);
         Bank bank = new Bank();
         int option;
+        int withNum;
 
         do {
             System.out.println("\n--- Bank Management System ---");

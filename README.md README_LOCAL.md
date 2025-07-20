@@ -1,18 +1,23 @@
-## Getting Started
+This is a basic banking system simulation created with pure Java. It allows user to:
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+- Create new bank accounts
+- Deposit and withdraw money
+- Transfer netween accounts
+- List all existings accounts
 
-## Folder Structure
+## Technologies Used
 
-The workspace contains two folders by default, where:
+- Java 17+
+- Java Collections API
+- Object-Oriented Progamming (OOP)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## How to Run
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+''' bash
+javac src/*.java
+java src.App
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Author
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Gabriel Santos
+[GitHub Profile]{https://github.com/DevBielSantos}
